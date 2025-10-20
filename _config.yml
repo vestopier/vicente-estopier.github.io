@@ -18,8 +18,8 @@ title: "Vicente Estopier"
 title_separator: "-"
 name: &name "Vicente Estopier"
 description: &description "PhD researcher and engineer in medical image analysis and computational modeling"
-url: https://vestopier.github.io
-baseurl: ""
+url: "https://vestopier.github.io"
+baseurl: "/vicente-estopier"
 repository: "vestopier/vicente-estopier.github.io"
 locale: "en-US"
 
